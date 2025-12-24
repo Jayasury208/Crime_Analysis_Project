@@ -1,0 +1,51 @@
+case_id,date,area,crime_type,victim_age,victim_gender,status
+1,2024-01-05,Anna Nagar,Theft,32,Male,Closed
+2,2024-01-08,T Nagar,Assault,28,Female,Open
+3,2024-02-12,Velachery,Fraud,45,Male,Closed
+4,2024-02-15,Anna Nagar,Theft,21,Female,Open
+5,2024-03-10,T Nagar,Murder,39,Male,Closed
+6,2024-03-18,Velachery,Assault,26,Female,Open
+7,2024-04-01,Mylapore,Theft,33,Male,Open
+8,2024-04-05,T Nagar,Fraud,40,Female,Closed
+9,2024-04-12,Anna Nagar,Assault,27,Male,Closed
+10,2024-05-01,Velachery,Theft,22,Female,Open
+11,2024-05-10,Mylapore,Murder,36,Male,Closed
+12,2024-05-15,Adyar,Theft,29,Female,Open
+13,2024-06-02,Adyar,Assault,24,Male,Closed
+14,2024-06-10,Velachery,Fraud,41,Female,Open
+15,2024-06-15,T Nagar,Theft,30,Male,Closed
+16,2024-07-01,Anna Nagar,Murder,38,Female,Closed
+17,2024-07-05,Mylapore,Fraud,26,Male,Open
+18,2024-07-10,Adyar,Theft,32,Female,Closed
+19,2024-07-15,T Nagar,Assault,28,Male,Open
+20,2024-08-01,Velachery,Murder,44,Female,Closed
+21,2024-08-05,Kodambakkam,Theft,35,Male,Open
+22,2024-08-10,Saidapet,Assault,27,Female,Closed
+23,2024-08-15,Anna Nagar,Robbery,31,Male,Open
+24,2024-09-01,T Nagar,Fraud,29,Female,Closed
+25,2024-09-05,Velachery,Theft,25,Male,Open
+26,2024-09-10,Mylapore,Assault,36,Female,Closed
+27,2024-09-15,Adyar,Robbery,40,Male,Open
+28,2024-10-01,Kodambakkam,Murder,33,Female,Closed
+29,2024-10-05,Saidapet,Theft,28,Male,Open
+30,2024-10-10,Anna Nagar,Fraud,37,Female,Closed
+31,2024-10-15,T Nagar,Robbery,34,Male,Open
+32,2024-11-01,Velachery,Assault,31,Female,Closed
+33,2024-11-05,Mylapore,Theft,29,Male,Open
+34,2024-11-10,Adyar,Murder,38,Female,Closed
+35,2024-11-15,Kodambakkam,Fraud,27,Male,Open
+36,2024-12-01,Saidapet,Theft,32,Female,Closed
+37,2024-12-05,Anna Nagar,Assault,30,Male,Open
+38,2024-12-10,T Nagar,Theft,26,Female,Closed
+39,2024-12-15,Velachery,Robbery,42,Male,Open
+40,2025-01-01,Mylapore,Fraud,33,Female,Closed
+41,2025-01-05,Adyar,Theft,28,Male,Open
+42,2025-01-10,Kodambakkam,Assault,35,Female,Closed
+43,2025-01-15,Saidapet,Murder,40,Male,Open
+44,2025-02-01,Anna Nagar,Theft,31,Female,Closed
+45,2025-02-05,T Nagar,Assault,29,Male,Open
+46,2025-02-10,Velachery,Fraud,36,Female,Closed
+47,2025-02-15,Mylapore,Robbery,34,Male,Open
+48,2025-03-01,Adyar,Theft,30,Female,Closed
+49,2025-03-05,Kodambakkam,Murder,37,Male,Open
+50,2025-03-10,Saidapet,Theft,33,Female,Closed
